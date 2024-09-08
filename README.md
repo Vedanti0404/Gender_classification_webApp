@@ -10,11 +10,12 @@ I’m excited to present a gender classification project where we built a machin
 
 We start by importing the necessary Python libraries for data processing and model development:
 
-Pandas for handling and manipulating data.
-NumPy for numerical operations.
-Matplotlib for data visualization.
-Scikit-learn for machine learning algorithms and utilities.
-Pickle for saving the trained model.
+1.Pandas for handling and manipulating data.
+2.NumPy for numerical operations.
+3.Matplotlib for data visualization.
+4.Scikit-learn for machine learning algorithms and utilities.
+5.Pickle for saving the trained model.
+
 2. Data Collection:
 
 The dataset used for this project, Gender_classification_dataset.csv, contains features related to facial characteristics. We loaded this dataset into a Pandas DataFrame for further processing.
